@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-github-card",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "NodeBB plugin for github card",
   "main": "index.js",
   "scripts": {
