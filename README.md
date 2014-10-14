@@ -1,3 +1,5 @@
+[Demo](http://swift.tf/topic/94/github-card-plugin)
+
 # nodebb-plugin-github-card
 
 NodeBB plugin for github card
