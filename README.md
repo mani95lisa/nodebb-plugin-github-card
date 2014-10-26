@@ -11,7 +11,7 @@ NodeBB plugin for github card
 
 ## Usage
 ```
-repo card [card:username/repo]
-user card [card:username]
-width * height `[card:username|400*150]`
+[card:username/repo] //repo card 
+[card:username] //user card 
+[card:username|400*150] //width * height `
 ```
