@@ -1,6 +1,5 @@
-(function(module) {
+(function(Card) {
     "use strict";
-    var Card = {};
     Card.parse = function(data, callback) {
         var re = /\[card:(.*?)(\b|\|(.*?)\*(.*)?)\]/gm;
 
@@ -12,5 +11,4 @@
         callback(null, data);
     };
 
-    module.exports = Card;
-}(module));
+})(module.exports);
